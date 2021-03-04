@@ -1,1 +1,1 @@
-### linkedin.com/in/ethan-vachon/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanvachon)](https://github.com/anuraghazra/github-readme-stats)
