@@ -6,3 +6,6 @@ https://www.linkedin.com/in/ethan-vachon/
 
 ## Landing page
 https://ethanvachon.github.io/
+
+## Resume
+https://www.dropbox.com/s/rib3642pnkoeosq/Ethan%20Vachon%20Resume.pdf?dl=0
