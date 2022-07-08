@@ -5,4 +5,4 @@
 https://www.linkedin.com/in/ethan-vachon/
 
 ## Resume
-https://www.dropbox.com/s/rib3642pnkoeosq/Ethan%20Vachon%20Resume.pdf?dl=0
+https://www.dropbox.com/s/g9fmnp7n9lychke/Ethan%20Vachon%20Resume.pdf?dl=0
